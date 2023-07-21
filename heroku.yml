@@ -1,5 +1,5 @@
 build:
   docker:
-    worker: Dockerfile
+    worker: Arnv
 run:
   worker: bash start
